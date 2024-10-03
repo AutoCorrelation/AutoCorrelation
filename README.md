@@ -1,6 +1,7 @@
 @Chung-MinJun
 https://github.com/Chung-MinJun/
 
+[https:](https://autocorrelation.github.io/)
 사라진 나의 채널
 
 ![AutoCorrelation's GitHub stats](https://github-readme-stats.vercel.app/api?username=AutoCorrelation&show_icons=true&theme=tokyonight)
